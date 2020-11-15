@@ -1,0 +1,17 @@
+body { 
+    margin: 10; 
+    color: white; 
+}
+.left-col {
+    background-color: black;
+    width: 25%; 
+    float: left; 
+}
+.center-col {
+    background-color: white;
+    width: 5%; 
+}
+.right-col {
+    background-color: black;
+    width: 70%; 
+}
